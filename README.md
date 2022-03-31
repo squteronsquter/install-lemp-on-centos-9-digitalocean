@@ -24,7 +24,7 @@ passwd <your-new-not-root-user-name>
 
 ```
 
-## Remeber or write down
+## Remember or write down
 
 p: <your-new-generated-strong-password>
 
