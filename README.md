@@ -11,7 +11,7 @@ ssh root@<ip-address-of-your-server> -i ~/.ssh/<your_ssh_key_name>
 passwd
 ```
 
-## Make note for yourself so that you do not loose or forget your password
+## Make note for yourself so that you do not lose or forget your password
 u: root
 p: <your-secret-password>
 
